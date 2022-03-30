@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OxygenO22
+- 👋 Hi, I’m Alexandr Budzko
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JS and all things which will help me to become a good Frontend developer
 - 💞️ I’m looking to collaborate on a good company, and I will help them to create the best apps in the world!!! 
